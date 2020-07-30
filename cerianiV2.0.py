@@ -63,26 +63,26 @@ print " iniciando cerianiV2.0 / "
 os.system("clear")
 print " iniciando cerianiV2.0 - "
 os.system("clear")
-print " iniciando cerianiV2.0 \"
+print " iniciando cerianiV2.0 \ "
 print "[                    ] 0% "
 time.sleep(1)
-print "[#                   ] 5%"
+print "[#                   ] 5% "
 time.sleep(1)
-print "[####                ] 10%"
+print "[####                ] 10% "
 time.sleep(1)
-print "[#########           ] 15%"
+print "[#########           ] 15% "
 time.sleep(1)
-print "[###########         ] 20%"
+print "[###########         ] 20% "
 time.sleep(1)
 print "[##############      ] 30% "
 time.sleep(1)
-print "[###############     ] 40%"
+print "[###############     ] 40% "
 time.sleep(1)
-print "[#################   ] 55%"
+print "[#################   ] 55% "
 time.sleep(1)
-print "[##################  ] 75%"
+print "[##################  ] 75% "
 time.sleep(1)
-print "[####################] 100%"
+print "[####################] 100% "
 time.sleep(1)
 sent = 0
 while True:
