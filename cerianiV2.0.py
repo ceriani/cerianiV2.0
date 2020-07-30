@@ -64,26 +64,98 @@ os.system("clear")
 print " iniciando cerianiV2.0 - "
 os.system("clear")
 print " iniciando cerianiV2.0 \ "
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 \ "
+os.system("clear")
+print " iniciando cerianiV2.0 | "
+os.system("clear")
+print " iniciando cerianiV2.0 / "
+os.system("clear")
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 \ "
+os.system("clear")
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 | "
+os.system("clear")
+print " iniciando cerianiV2.0 / "
+os.system("clear")
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 \ "
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 \ "
+os.system("clear")
+print " iniciando cerianiV2.0 | "
+os.system("clear")
+print " iniciando cerianiV2.0 / "
+os.system("clear")
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 \ "
+os.system("clear")
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 | "
+os.system("clear")
+print " iniciando cerianiV2.0 / "
+os.system("clear")
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 \ "
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 \ "
+os.system("clear")
+print " iniciando cerianiV2.0 | "
+os.system("clear")
+print " iniciando cerianiV2.0 / "
+os.system("clear")
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 \ "
+os.system("clear")
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 | "
+os.system("clear")
+print " iniciando cerianiV2.0 / "
+os.system("clear")
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 \ "
 print "[                    ] 0% "
 time.sleep(1)
+os.system("clear")
 print "[#                   ] 5% "
 time.sleep(1)
+os.system("clear")
 print "[####                ] 10% "
 time.sleep(1)
+os.system("clear")
 print "[#########           ] 15% "
 time.sleep(1)
+os.system("clear")
 print "[###########         ] 20% "
 time.sleep(1)
 print "[##############      ] 30% "
 time.sleep(1)
+os.system("clear")
 print "[###############     ] 40% "
 time.sleep(1)
+os.system("clear")
 print "[#################   ] 55% "
 time.sleep(1)
+os.system("clear")
 print "[##################  ] 75% "
 time.sleep(1)
+os.system("clear")
 print "[####################] 100% "
 time.sleep(1)
+os.system("clear")
 sent = 0
 while True:
      sock.sendto(bytes, (ip,port))
