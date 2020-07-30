@@ -131,13 +131,13 @@ print " iniciando cerianiV2.0 - "
 os.system("clear")
 print " iniciando cerianiV2.0 \ "
 os.system("clear")
-print "[                    ]  "
+print "[###                 ]  "
 time.sleep(1)
 os.system("clear")
 print "[#####               ]  "
 time.sleep(1)
 os.system("clear")
-print "[############        ]"
+print "[############        ]  "
 time.sleep(1)
 os.system("clear")
 print "[##############      ]  "
@@ -148,10 +148,10 @@ os.system("clear")
 print "[#################   ]  "
 time.sleep(1)
 os.system("clear")
-print "[################## ]  "
+print "[##################  ]  "
 time.sleep(1)
 os.system("clear")
-print "[################### ] "
+print "[################### ]  "
 time.sleep(1)
 os.system("clear")
 print "[####################]  "
