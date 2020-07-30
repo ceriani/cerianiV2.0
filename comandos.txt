@@ -3,3 +3,4 @@ python cerianiDDos.py
 IP De Ataque= "ip"
 Puerto = 4444,8888,4040,8080,4545,etc.
 esperan a que carge y ya estan atacando.
+ NO PARA TERMUX..........................................................................................................................
