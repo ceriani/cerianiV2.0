@@ -20,13 +20,15 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos Attack")
 print
-print ".######  ######## ########  ####    ###    ##    ## #### "
-print "##    ## ##       ##     ##  ##    ## ##   ###   ##  ##  "
-print "##       ##       ##     ##  ##   ##   ##  ####  ##  ##  "
-print "##       ######   ########   ##  ##     ## ## ## ##  ##  "
-print "##       ##       ##   ##    ##  ######### ##  ####  ##  "
-print "##    ## ##       ##    ##   ##  ##     ## ##   ###  ##  "
-print ".######  ######## ##     ## #### ##     ## ##    ## #### " 
+print " I am not responsible for the misuse of this program "
+print " no me hago responsable del mal uso de este programa "
+print "                            .######  ######## ########  ####    ###    ##    ## #### "
+print "                            ##    ## ##       ##     ##  ##    ## ##   ###   ##  ##  "
+print "                            ##       ##       ##     ##  ##   ##   ##  ####  ##  ##  "
+print "                            ##       ######   ########   ##  ##     ## ## ## ##  ##  "
+print "                            ##       ##       ##   ##    ##  ######### ##  ####  ##  "
+print "                            ##    ## ##       ##    ##   ##  ##     ## ##   ###  ##  "
+print "                            .######  ######## ##     ## #### ##     ## ##    ## #### " 
 print "              uu$:$:$:$:$:$uu "
 print "           uu$$$$$$$$$$$$$$$$$uu "
 print "          u$$$$$$$$$$$$$$$$$$$$$u "
