@@ -64,6 +64,7 @@ os.system("clear")
 print " iniciando cerianiV2.0 - "
 os.system("clear")
 print " iniciando cerianiV2.0 \ "
+os.system("clear")
 print " iniciando cerianiV2.0 - "
 os.system("clear")
 print " iniciando cerianiV2.0 \ "
@@ -85,6 +86,7 @@ os.system("clear")
 print " iniciando cerianiV2.0 - "
 os.system("clear")
 print " iniciando cerianiV2.0 \ "
+os.system("clear")
 print " iniciando cerianiV2.0 - "
 os.system("clear")
 print " iniciando cerianiV2.0 \ "
@@ -106,6 +108,7 @@ os.system("clear")
 print " iniciando cerianiV2.0 - "
 os.system("clear")
 print " iniciando cerianiV2.0 \ "
+os.system("clear")
 print " iniciando cerianiV2.0 - "
 os.system("clear")
 print " iniciando cerianiV2.0 \ "
@@ -127,33 +130,31 @@ os.system("clear")
 print " iniciando cerianiV2.0 - "
 os.system("clear")
 print " iniciando cerianiV2.0 \ "
-print "[                    ] 0% "
+os.system("clear")
+print "[                    ]  "
 time.sleep(1)
 os.system("clear")
-print "[#                   ] 5% "
+print "[#####               ]  "
 time.sleep(1)
 os.system("clear")
-print "[####                ] 10% "
+print "[############        ]"
 time.sleep(1)
 os.system("clear")
-print "[#########           ] 15% "
+print "[##############      ]  "
+time.sleep(1)
+print "[################    ]  "
 time.sleep(1)
 os.system("clear")
-print "[###########         ] 20% "
-time.sleep(1)
-print "[##############      ] 30% "
+print "[#################   ]  "
 time.sleep(1)
 os.system("clear")
-print "[###############     ] 40% "
+print "[################## ]  "
 time.sleep(1)
 os.system("clear")
-print "[#################   ] 55% "
+print "[################### ] "
 time.sleep(1)
 os.system("clear")
-print "[##################  ] 75% "
-time.sleep(1)
-os.system("clear")
-print "[####################] 100% "
+print "[####################]  "
 time.sleep(1)
 os.system("clear")
 sent = 0
