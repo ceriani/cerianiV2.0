@@ -31,15 +31,6 @@ print " no me hago responsable del mal uso de este programa "
 ip = raw_input("IP De Ataque--> ")
 port = input("Puerto De Entrada--> ")
 
-print "████████▄DD████████▄DDD▄██████▄DDDDD▄████████DDDDDD";
-print "███DDD▀███D███DDD▀███D███DDDD███DDD███DDDD███DDDDDD";
-print "███DDDD███D███DDDD███D███DDDD███DDD███DDDD█▀DDDDDDD";
-print "███DDDD███D███DDDD███D███DDDD███DDD███DDDDDDDDDDDDD";
-print "███DDDD███D███DDDD███D███DDDD███D▀███████████DDDDDD";
-print "███DDDD███D███DDDD███D███DDDD███DDDDDDDDDD███DDDDDD";
-print "███DDD▄███D███DDD▄███D███DDDD███DDDD▄█DDDD███DDDDDD";
-print "████████▀DD████████▀DDD▀██████▀DDD▄████████▀DDDDDDD";
-print "DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD";
 print "Por Favor Espere"
 print "please wait"
 time.sleep(5)
