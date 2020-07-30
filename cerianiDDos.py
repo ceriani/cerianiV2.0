@@ -52,11 +52,99 @@ print "  u$$$uuu$$$$$$$$$uu **$$$$$$$$$$$uuu$$$ "
 print "  $$$$$$$$$$****           **$$$$$$$$$$$* "
 print "    *$$$$$*                      **$$$$** "
 print "      $$$*  DDos Ataque Ceriani    $$$$* "
-ip = raw_input("IP Target : ")
-port = input("Port       : ")
+ip = raw_input("IP De Ataque--> ")
+port = input("Puerto De Entrada--> ")
 
 os.system("clear")
 os.system("figlet Attack Starting")
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 \ "
+os.system("clear")
+print " iniciando cerianiV2.0 | "
+os.system("clear")
+print " iniciando cerianiV2.0 / "
+os.system("clear")
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 \ "
+os.system("clear")
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 | "
+os.system("clear")
+print " iniciando cerianiV2.0 / "
+os.system("clear")
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 \ "
+os.system("clear")
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 \ "
+os.system("clear")
+print " iniciando cerianiV2.0 | "
+os.system("clear")
+print " iniciando cerianiV2.0 / "
+os.system("clear")
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 \ "
+os.system("clear")
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 | "
+os.system("clear")
+print " iniciando cerianiV2.0 / "
+os.system("clear")
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 \ "
+os.system("clear")
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 \ "
+os.system("clear")
+print " iniciando cerianiV2.0 | "
+os.system("clear")
+print " iniciando cerianiV2.0 / "
+os.system("clear")
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 \ "
+os.system("clear")
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 | "
+os.system("clear")
+print " iniciando cerianiV2.0 / "
+os.system("clear")
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 \ "
+os.system("clear")
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 \ "
+os.system("clear")
+print " iniciando cerianiV2.0 | "
+os.system("clear")
+print " iniciando cerianiV2.0 / "
+os.system("clear")
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 \ "
+os.system("clear")
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 | "
+os.system("clear")
+print " iniciando cerianiV2.0 / "
+os.system("clear")
+print " iniciando cerianiV2.0 - "
+os.system("clear")
+print " iniciando cerianiV2.0 \ "
+os.system("clear")
 print " iniciando cerianiV2.0 - "
 os.system("clear")
 print " iniciando cerianiV2.0 \ "
