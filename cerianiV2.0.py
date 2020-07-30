@@ -43,28 +43,27 @@ port = input("Port       : ")
 
 os.system("clear")
 os.system("figlet Attack Starting")
-print
-print "iniciando cerianiV2.0 -"
+print " iniciando cerianiV2.0 - "
 os.system("clear")
-print "iniciando cerianiV2.0 \"
+print " iniciando cerianiV2.0 \ "
 os.system("clear")
-print "iniciando cerianiV2.0 |"
+print " iniciando cerianiV2.0 | "
 os.system("clear")
-print "iniciando cerianiV2.0 /"
+print " iniciando cerianiV2.0 / "
 os.system("clear")
-print "iniciando cerianiV2.0 -"
+print " iniciando cerianiV2.0 - "
 os.system("clear")
-print "iniciando cerianiV2.0 \"
+print " iniciando cerianiV2.0 \ "
 os.system("clear")
-print "iniciando cerianiV2.0 -"
+print " iniciando cerianiV2.0 - "
 os.system("clear")
-print "iniciando cerianiV2.0 |"
+print " iniciando cerianiV2.0 | "
 os.system("clear")
-print "iniciando cerianiV2.0 /"
+print " iniciando cerianiV2.0 / "
 os.system("clear")
-print "iniciando cerianiV2.0 -"
+print " iniciando cerianiV2.0 - "
 os.system("clear")
-print "iniciando cerianiV2.0 \"
+print " iniciando cerianiV2.0 \"
 print "[                    ] 0% "
 time.sleep(1)
 print "[#                   ] 5%"
