@@ -20,7 +20,6 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos Attack")
 print
-print color_red_white("I am not responsible for the misuse of this program")
 print ".######  ######## ########  ####    ###    ##    ## #### "
 print "##    ## ##       ##     ##  ##    ## ##   ###   ##  ##  "
 print "##       ##       ##     ##  ##   ##   ##  ####  ##  ##  "
@@ -28,17 +27,21 @@ print "##       ######   ########   ##  ##     ## ## ## ##  ##  "
 print "##       ##       ##   ##    ##  ######### ##  ####  ##  "
 print "##    ## ##       ##    ##   ##  ##     ## ##   ###  ##  "
 print ".######  ######## ##     ## #### ##     ## ##    ## #### "
-print " ad888888b,       ,a888a,    "
-print "d8*     *88     ,8P*' `*Y8,  "
-print "         88    ,8P       Y8, "
-print "        d8P    88         88 "
-print "       a8P     88         88 "
-print "     ,d8P      88         88 "
-print "   ,d8P'       88         88 "
-print " ,d8P'         `8b       d8' "
-print "a88*        d8b `8ba, ,ad8'  "
-print "88888888888 Y8P   *Y888P*    "
-print
+print 
+print "▒▒▒▒▒▒▒▒▄▄▄▄▄▄▄▄▒▒▒▒▒▒"
+print "▒▒█▒▒▒▄██████████▄▒▒▒▒"
+print "▒█▐▒▒▒████████████▒▒▒▒"
+print "▒▌▐▒▒██▄▀██████▀▄██▒▒▒"
+print "▐┼▐▒▒██▄▄▄▄██▄▄▄▄██▒▒▒"
+print "▐┼▐▒▒██████████████▒▒▒"
+print "▐▄▐████─▀▐▐▀█─█─▌▐██▄▒"
+print "▒▒█████──────────▐███▌"
+print "▒▒█▀▀██▄█─▄───▐─▄███▀▒"
+print "▒▒█▒▒███████▄██████▒▒▒"
+print "▒▒▒▒▒██████████████▒▒▒"
+print "▒▒▒▒▒█████████▐▌██▌▒▒▒"
+print "▒▒▒▒▒▐▀▐▒▌▀█▀▒▐▒█▒▒▒▒▒"
+print "▒▒▒▒▒▒▒▒▒▒▒▐▒▒▒▒▌▒▒▒▒▒"
 ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
