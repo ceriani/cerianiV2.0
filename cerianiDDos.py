@@ -20,7 +20,7 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos Attack")
 print
-print default_red_white("I am not responsible for the misuse of this program")
+print color_red_white("I am not responsible for the misuse of this program")
 print ".######  ######## ########  ####    ###    ##    ## #### "
 print "##    ## ##       ##     ##  ##    ## ##   ###   ##  ##  "
 print "##       ##       ##     ##  ##   ##   ##  ####  ##  ##  "
