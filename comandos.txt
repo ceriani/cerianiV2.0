@@ -1,4 +1,4 @@
-python cerianiV2.0.py
+python cerianiDDos.py
 
 IP De Ataque= "ip"
 Puerto = 4444,8888,4040,8080,4545,etc.
