@@ -1,4 +1,4 @@
- import sys
+import sys
 import os
 import time
 import socket
@@ -19,7 +19,6 @@ bytes = random._urandom(1490)
 
 os.system("clear")
 os.system("figlet DDos Attack")
-print
 print
 print ".######  ######## ########  ####    ###    ##    ## #### "
 print "##    ## ##       ##     ##  ##    ## ##   ###   ##  ##  "
