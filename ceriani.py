@@ -20,8 +20,6 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos Attack")
 print
-print " I am not responsible for the misuse of this program "
-print " no me hago responsable del mal uso de este programa "
 print "                .######  ######## ########  ####    ###    ##    ## #### "
 print "                ##    ## ##       ##     ##  ##    ## ##   ###   ##  ##  "
 print "                ##       ##       ##     ##  ##   ##   ##  ####  ##  ##  "
@@ -54,6 +52,8 @@ print "  u$$$uuu$$$$$$$$$uu **$$$$$$$$$$$uuu$$$ "
 print "  $$$$$$$$$$****           **$$$$$$$$$$$* "
 print "    *$$$$$*                      **$$$$** "
 print "      $$$*  DDos Ataque Ceriani    $$$$* "
+print " I am not responsible for the misuse of this program "
+print " no me hago responsable del mal uso de este programa "
 ip = raw_input("IP De Ataque--> ")
 port = input("Puerto De Entrada--> ")
 
