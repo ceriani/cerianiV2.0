@@ -20,12 +20,19 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos Attack")
 print
-print ".######  ######## ########  ####    ###    ##    ## ####   ####"
-print "##    ## ##       ##     ##  ##    ## ##   ###   ##  ##    #####"
-print "##       ##       ##     ##  ##   ##   ##  ####  ##  ##    ##"
-print "##       ######   ########   ##  ##     ## ## ## ##  ##    ##"
-print "##    ## ##       ##    ##   ##  ######### ##   ###  ##    ####"
-print ".######  ######## ##     ## #### ##     ## ##    ## ####   ####" 
+print """
+   $$$$$\                                                                  $$$$$$\      $$$$$$\  
+   \__$$ |                                                                $$  __$$\    $$$ __$$\ 
+      $$ | $$$$$$\  $$$$$$\$$$$\  $$$$$$\$$$$\   $$$$$$\   $$$$$$\        \__/  $$ |   $$$$\ $$ |
+      $$ | \____$$\ $$  _$$  _$$\ $$  _$$  _$$\ $$  __$$\ $$  __$$\        $$$$$$  |   $$\$$\$$ |
+$$\   $$ | $$$$$$$ |$$ / $$ / $$ |$$ / $$ / $$ |$$$$$$$$ |$$ |  \__|      $$  ____/    $$ \$$$$ |
+$$ |  $$ |$$  __$$ |$$ | $$ | $$ |$$ | $$ | $$ |$$   ____|$$ |            $$ |         $$ |\$$$ |
+\$$$$$$  |\$$$$$$$ |$$ | $$ | $$ |$$ | $$ | $$ |\$$$$$$$\ $$ |            $$$$$$$$\ $$\\$$$$$$  /
+ \______/  \_______|\__| \__| \__|\__| \__| \__| \_______|\__|            \________|\__|\______/ 
+                                                                                                 
+                                                                                                 
+                                                                                                 
+                                                                                                 """ 
 print " I am not responsible for the misuse of this program "
 print " no me hago responsable del mal uso de este programa "
 ip = raw_input("IP De Ataque--> ")
@@ -36,182 +43,6 @@ print "please wait"
 time.sleep(5)
 os.system("clear")
 os.system("figlet Attack Starting")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 \ "
-os.system("clear")
-print " iniciando cerianiV2.0 | "
-os.system("clear")
-print " iniciando cerianiV2.0 / "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 \ "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 | "
-os.system("clear")
-print " iniciando cerianiV2.0 / "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 \ "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 \ "
-os.system("clear")
-print " iniciando cerianiV2.0 | "
-os.system("clear")
-print " iniciando cerianiV2.0 / "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 \ "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 | "
-os.system("clear")
-print " iniciando cerianiV2.0 / "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 \ "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 \ "
-os.system("clear")
-print " iniciando cerianiV2.0 | "
-os.system("clear")
-print " iniciando cerianiV2.0 / "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 \ "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 | "
-os.system("clear")
-print " iniciando cerianiV2.0 / "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 \ "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 \ "
-os.system("clear")
-print " iniciando cerianiV2.0 | "
-os.system("clear")
-print " iniciando cerianiV2.0 / "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 \ "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 | "
-os.system("clear")
-print " iniciando cerianiV2.0 / "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 \ "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 \ "
-os.system("clear")
-print " iniciando cerianiV2.0 | "
-os.system("clear")
-print " iniciando cerianiV2.0 / "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 \ "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 | "
-os.system("clear")
-print " iniciando cerianiV2.0 / "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 \ "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 \ "
-os.system("clear")
-print " iniciando cerianiV2.0 | "
-os.system("clear")
-print " iniciando cerianiV2.0 / "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 \ "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 | "
-os.system("clear")
-print " iniciando cerianiV2.0 / "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 \ "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 \ "
-os.system("clear")
-print " iniciando cerianiV2.0 | "
-os.system("clear")
-print " iniciando cerianiV2.0 / "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 \ "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 | "
-os.system("clear")
-print " iniciando cerianiV2.0 / "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 \ "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 \ "
-os.system("clear")
-print " iniciando cerianiV2.0 | "
-os.system("clear")
-print " iniciando cerianiV2.0 / "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 \ "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 | "
-os.system("clear")
-print " iniciando cerianiV2.0 / "
-os.system("clear")
-print " iniciando cerianiV2.0 - "
-os.system("clear")
-print " iniciando cerianiV2.0 \ "
-os.system("clear")
 print "[###                 ]  "
 time.sleep(1)
 os.system("clear")
@@ -223,6 +54,7 @@ time.sleep(1)
 os.system("clear")
 print "[##############      ]  "
 time.sleep(1)
+os.system("clear")
 print "[################    ]  "
 time.sleep(1)
 os.system("clear")
